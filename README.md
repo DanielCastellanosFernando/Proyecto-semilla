@@ -5,6 +5,11 @@ Se medira con sensores diversos la tierra
 Fotos del proceso final
 
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e002e42c-2f3c-4c8b-bdd9-b15b5d8b8af3" />
+<img width="655" height="1600" alt="WhatsApp Image 2026-05-27 at 6 20 46 PM" src="https://github.com/user-attachments/assets/d6dc0cab-2165-41c7-9932-6774e5f7bc39" />
+<img width="655" height="1600" alt="WhatsApp Image 2026-05-27 at 6 20 46 PM (1)" src="https://github.com/user-attachments/assets/5b3cd143-46b2-4604-911a-bfd62853cbd0" />
+
+
 
 
 
