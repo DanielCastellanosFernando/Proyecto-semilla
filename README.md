@@ -1,6 +1,15 @@
 # Proyecto-semilla
 Se medira con sensores diversos la tierra
 
+
+Fotos del proceso final
+
+
+
+
+
+
+
 Programa utilizado 
 
 
