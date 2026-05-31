@@ -1,5 +1,11 @@
 # Proyecto-semilla
-Se medira con sensores diversos la tierra
+Este proyecto implementa un sistema de monitoreo ambiental basado en ESP32, integrando un sensor de humedad de suelo, un sensor de lluvia y un módulo MPU6050. La información de los sensores se visualiza en una pantalla OLED mediante una interfaz de menús interactiva. El sistema permite supervisar en tiempo real las condiciones del entorno de forma sencilla y eficiente.
+
+
+
+
+Enlace del archivo .rar de Altium
+https://drive.google.com/drive/folders/1Iz4U5BRyFNcIZlU8DwyHgjQNg9sfKK7b?usp=drive_link
 
 
 Fotos del proceso final
