@@ -8,12 +8,19 @@ Enlace del archivo .rar de Altium
 https://drive.google.com/drive/folders/1Iz4U5BRyFNcIZlU8DwyHgjQNg9sfKK7b?usp=drive_link
 
 
-Fotos del proceso final
+Fotos del proceso y de altium
 
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e002e42c-2f3c-4c8b-bdd9-b15b5d8b8af3" />
 <img width="655" height="1600" alt="WhatsApp Image 2026-05-27 at 6 20 46 PM" src="https://github.com/user-attachments/assets/d6dc0cab-2165-41c7-9932-6774e5f7bc39" />
 <img width="655" height="1600" alt="WhatsApp Image 2026-05-27 at 6 20 46 PM (1)" src="https://github.com/user-attachments/assets/5b3cd143-46b2-4604-911a-bfd62853cbd0" />
+<img width="518" height="783" alt="WhatsApp Image 2026-05-31 at 1 14 16 PM" src="https://github.com/user-attachments/assets/a2891ab6-665c-46c3-9222-e9ed1f54c9aa" />
+<img width="490" height="782" alt="image" src="https://github.com/user-attachments/assets/aa30d8b0-ead8-497d-93b5-2ab345d7c543" />
+<img width="486" height="781" alt="image" src="https://github.com/user-attachments/assets/4d59adb9-9794-4934-b25d-e3b3081a00d0" />
+<img width="535" height="822" alt="image" src="https://github.com/user-attachments/assets/989cbe34-e787-45cc-aa20-4d23fe8907cd" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/576e9966-d63d-41ff-ae22-fd01afe28a14" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d57ff7dd-2724-47b7-8d2b-2751c4592d2c" />
+
 
 
 
